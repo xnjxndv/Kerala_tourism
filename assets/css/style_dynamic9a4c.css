@@ -1,0 +1,63 @@
+/* generated in /www/sites/getaway.select-themes.com/files/html/wp-content/themes/getaway/framework/modules/contactform7/custom-styles/contact-form.php getaway_qodef_contact_form7_text_styles_1 function */
+.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-text, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-number, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-date, .cf7_custom_style_1 textarea.wpcf7-form-control.wpcf7-textarea, .cf7_custom_style_1 select.wpcf7-form-control.wpcf7-select, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-quiz { font-size: 16px;background-color: rgba(255, 255, 255, 0);border-color: rgba(0, 0, 0, 1);padding-top: 10px;padding-right: 0px;padding-bottom: 3px;padding-left: 0px;margin-bottom: 40px;}
+
+/* generated in /www/sites/getaway.select-themes.com/files/html/wp-content/themes/getaway/framework/modules/contactform7/custom-styles/contact-form.php getaway_qodef_contact_form7_focus_styles_1 function */
+.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-text:focus, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-number:focus, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-date:focus, .cf7_custom_style_1 textarea.wpcf7-form-control.wpcf7-textarea:focus, .cf7_custom_style_1 select.wpcf7-form-control.wpcf7-select:focus, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-quiz:focus { background-color: rgba(255, 255, 255, 0);border-color: rgba(0, 0, 0, 1);}
+
+/* generated in /www/sites/getaway.select-themes.com/files/html/wp-content/themes/getaway/framework/modules/contactform7/custom-styles/contact-form.php getaway_qodef_contact_form7_button_styles_1 function */
+.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-submit { border-width: 2px;}
+
+/* generated in /www/sites/getaway.select-themes.com/files/html/wp-content/themes/getaway/framework/modules/contactform7/custom-styles/contact-form.php getaway_qodef_contact_form7_button_hover_styles_1 function */
+.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-submit:not([disabled]):hover { color: #000000;background-color: rgba(255, 255, 255, 0);border-color: rgba(0, 0, 0, 1);}
+
+/* generated in /www/sites/getaway.select-themes.com/files/html/wp-content/themes/getaway/framework/modules/contactform7/custom-styles/contact-form.php getaway_qodef_contact_form7_text_styles_2 function */
+.cf7_custom_style_2 textarea.wpcf7-form-control.wpcf7-textarea { height: 100px;}
+
+/* generated in /www/sites/getaway.select-themes.com/files/html/wp-content/themes/getaway/framework/modules/contactform7/custom-styles/contact-form.php getaway_qodef_contact_form7_text_styles_2 function */
+.cf7_custom_style_2 input.wpcf7-form-control.wpcf7-text, .cf7_custom_style_2 input.wpcf7-form-control.wpcf7-number, .cf7_custom_style_2 input.wpcf7-form-control.wpcf7-date, .cf7_custom_style_2 textarea.wpcf7-form-control.wpcf7-textarea, .cf7_custom_style_2 select.wpcf7-form-control.wpcf7-select, .cf7_custom_style_2 input.wpcf7-form-control.wpcf7-quiz { font-size: 16px;border-color: rgba(0, 0, 0, 1);padding-bottom: 3px;}
+
+/* generated in /www/sites/getaway.select-themes.com/files/html/wp-content/themes/getaway/framework/modules/contactform7/custom-styles/contact-form.php getaway_qodef_contact_form7_focus_styles_2 function */
+.cf7_custom_style_2 input.wpcf7-form-control.wpcf7-text:focus, .cf7_custom_style_2 input.wpcf7-form-control.wpcf7-number:focus, .cf7_custom_style_2 input.wpcf7-form-control.wpcf7-date:focus, .cf7_custom_style_2 textarea.wpcf7-form-control.wpcf7-textarea:focus, .cf7_custom_style_2 select.wpcf7-form-control.wpcf7-select:focus, .cf7_custom_style_2 input.wpcf7-form-control.wpcf7-quiz:focus { border-color: rgba(0, 0, 0, 1);}
+
+/* generated in /www/sites/getaway.select-themes.com/files/html/wp-content/themes/getaway/framework/modules/contactform7/custom-styles/contact-form.php getaway_qodef_contact_form7_button_styles_2 function */
+.cf7_custom_style_2 input.wpcf7-form-control.wpcf7-submit { text-transform: lowercase;border-width: 2px;}
+
+/* generated in /www/sites/getaway.select-themes.com/files/html/wp-content/themes/getaway/framework/modules/contactform7/custom-styles/contact-form.php getaway_qodef_contact_form7_button_hover_styles_2 function */
+.cf7_custom_style_2 input.wpcf7-form-control.wpcf7-submit:not([disabled]):hover { color: #000000;background-color: rgba(255, 255, 255, 0);border-color: rgba(0, 0, 0, 1);}
+
+/* generated in /www/sites/getaway.select-themes.com/files/html/wp-content/themes/getaway/framework/modules/error404/custom-styles/custom-styles.php getaway_qodef_404_header_general_styles function */
+.qodef-404-page .qodef-page-header .qodef-menu-area { background-color: rgba(255, 255, 255, 0) !important;}
+
+/* generated in /www/sites/getaway.select-themes.com/files/html/wp-content/themes/getaway/framework/modules/error404/custom-styles/custom-styles.php getaway_qodef_404_footer_top_general_styles function */
+.qodef-404-page .qodef-content { background-image: url(../../../../uploads/2017/08/error-page-background-img-1.jpg);background-position: center 0;background-size: cover;background-repeat: no-repeat;}
+
+/* generated in /www/sites/getaway.select-themes.com/files/html/wp-content/themes/getaway/framework/modules/error404/custom-styles/custom-styles.php getaway_qodef_404_title_styles function */
+.qodef-404-page .qodef-page-not-found .qodef-404-title { color: #ffe500;font-family: Montserrat;font-size: 245px;font-style: normal;font-weight: 700;}
+
+/* generated in /www/sites/getaway.select-themes.com/files/html/wp-content/themes/getaway/framework/modules/error404/custom-styles/custom-styles.php getaway_qodef_404_subtitle_styles function */
+.qodef-404-page .qodef-page-not-found .qodef-404-subtitle { color: #ffffff;font-family: Montserrat;font-size: 40px;font-weight: 400;}
+
+/* generated in /www/sites/getaway.select-themes.com/files/html/wp-content/themes/getaway/framework/modules/error404/custom-styles/custom-styles.php getaway_qodef_404_text_styles function */
+.qodef-404-page .qodef-page-not-found .qodef-404-text { color: #ffffff;font-size: 17px;}
+
+/* generated in /www/sites/getaway.select-themes.com/files/html/wp-content/themes/getaway/framework/modules/footer/admin/custom-styles/footer-custom-styles.php getaway_qodef_footer_bottom_general_styles function */
+.qodef-page-footer .qodef-footer-bottom-holder { background-color: #ffffff;}
+
+/* generated in /www/sites/getaway.select-themes.com/files/html/wp-content/themes/getaway/framework/modules/footer/admin/custom-styles/footer-custom-styles.php getaway_qodef_footer_background_image function */
+.qodef-page-footer { background-image: url(../../../../uploads/2017/08/footer-backround.jpg);background-size: cover;}
+
+/* generated in /www/sites/getaway.select-themes.com/files/html/wp-content/themes/getaway/framework/modules/footer/admin/custom-styles/footer-custom-styles.php getaway_qodef_footer_background_image function */
+.qodef-page-footer .qodef-footer-top-holder { background-color: transparent;}
+
+/* generated in /www/sites/getaway.select-themes.com/files/html/wp-content/themes/getaway/framework/modules/header/types/top-header/admin/custom-styles/top-header-custom-styles.php getaway_qodef_header_top_bar_styles function */
+.qodef-top-bar-background { height: 82px;}
+
+/* generated in /www/sites/getaway.select-themes.com/files/html/wp-content/themes/getaway/framework/modules/header/admin/custom-styles/header-custom-styles.php getaway_qodef_header_logo_area_styles function */
+.qodef-header-centered .qodef-logo-area .qodef-logo-wrapper { padding: ;}
+
+/* generated in /www/sites/getaway.select-themes.com/files/html/wp-content/themes/getaway/framework/modules/sidearea/admin/custom-styles/sidearea-custom-styles.php getaway_qodef_side_area_styles function */
+.qodef-side-menu { text-align: left;}
+
+/* generated in /www/sites/getaway.select-themes.com/files/html/wp-content/themes/getaway/framework/modules/title/admin/custom-styles/title-custom-styles.php getaway_qodef_title_area_typography_style function */
+.qodef-title-holder .qodef-title-wrapper .qodef-page-title { color: #ffffff;}
+
