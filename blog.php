@@ -13,7 +13,7 @@
     <style id='getaway_qodef_modules-inline-css' type='text/css'>
         .destinations-template-default .qodef-title-holder .qodef-title-wrapper .qodef-page-title{
         font-weight: 600;
-        }
+        } 
     </style>
     
     <link rel='stylesheet' id='qodef_tours_style-css' href='wp-content/plugins/select-tours/assets/css/tours.mina288.css?ver=4.8.1' type='text/css' media='all' /><!--Tile Tours-->
